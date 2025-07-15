@@ -12,6 +12,12 @@ public class DemoRestController {
     //add test
     @GetMapping("/hello")
     public String sayHello(){
-        return "Hello Lloyd!";
+        return "Hello Lloyd!\n Kumusta Ka?";
+    }
+
+    @GetMapping("/another")
+    public String saySchool(){
+
+        return "graduated at New Era University";
     }
 }
