@@ -1,12 +1,12 @@
-# Spring Boot REST API CRUD
+# Spring Boot REST
 
-This is a mini project built with **Spring Boot** that demonstrates basic **CRUD (Create, Read, Update, Delete)** operations through a RESTful API. 
+This is a mini project built with **Spring Boot** that demonstrates basic RestController, understanding the POJO, and PathVariable annotations. 
 
 ## Features
 
-- Create, Read, Update, and Delete (CRUD)
-- Rest API integration
-- Simple and clear project structure for learning spring boot core
+- Applied Global Exception Handling
+- Rest Integration
+- POJO and PathVariable annotations
 
 ## Dependencies
 
