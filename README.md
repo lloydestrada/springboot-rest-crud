@@ -12,5 +12,5 @@ This is a mini project built with **Spring Boot** that demonstrates basic RestCo
 
 The project uses the following main dependencies:
 
-- **Spring Boot Starter Web** – for building REST APIs
-- **Spring Boot DevTools** – for automatic restarts during development
+- **Spring Boot Starter Web** – for building REST APIs.
+- **Spring Boot DevTools** – for automatic restarts during development.
